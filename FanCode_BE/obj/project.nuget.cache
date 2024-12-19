@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "/sEI2ATVDC5BxIfNzth2Qb49383ymNX2GRT7TYQqumLtnjxp5HelwaKaSrWgoxkC3C39yG8wZjrTvQHU3rOAFw==",
+  "success": true,
+  "projectFilePath": "C:\\Harkirat\\Project\\FanCode_BE\\FanCode_BE.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Harkirat.Kaur\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\8.0.11\\microsoft.aspnetcore.jsonpatch.8.0.11.nupkg.sha512",
+    "C:\\Users\\Harkirat.Kaur\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\8.0.11\\microsoft.aspnetcore.mvc.newtonsoftjson.8.0.11.nupkg.sha512",
+    "C:\\Users\\Harkirat.Kaur\\.nuget\\packages\\microsoft.build.tasks.git\\8.0.0\\microsoft.build.tasks.git.8.0.0.nupkg.sha512",
+    "C:\\Users\\Harkirat.Kaur\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Harkirat.Kaur\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Harkirat.Kaur\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Harkirat.Kaur\\.nuget\\packages\\microsoft.sourcelink.bitbucket.git\\8.0.0\\microsoft.sourcelink.bitbucket.git.8.0.0.nupkg.sha512",
+    "C:\\Users\\Harkirat.Kaur\\.nuget\\packages\\microsoft.sourcelink.common\\8.0.0\\microsoft.sourcelink.common.8.0.0.nupkg.sha512",
+    "C:\\Users\\Harkirat.Kaur\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Harkirat.Kaur\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\Harkirat.Kaur\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Harkirat.Kaur\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Harkirat.Kaur\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Harkirat.Kaur\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

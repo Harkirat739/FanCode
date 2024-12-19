@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Harkirat\\Project\\FanCode_BE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5209614E-6E17-4EE2-81F9-CEA502E7B3E8}|FanCode_BE.csproj|c:\\harkirat\\project\\fancode_be\\services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5209614E-6E17-4EE2-81F9-CEA502E7B3E8}|FanCode_BE.csproj|solutionrelative:services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5209614E-6E17-4EE2-81F9-CEA502E7B3E8}|FanCode_BE.csproj|c:\\harkirat\\project\\fancode_be\\models\\todorequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5209614E-6E17-4EE2-81F9-CEA502E7B3E8}|FanCode_BE.csproj|solutionrelative:models\\todorequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5209614E-6E17-4EE2-81F9-CEA502E7B3E8}|FanCode_BE.csproj|c:\\harkirat\\project\\fancode_be\\models\\userrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5209614E-6E17-4EE2-81F9-CEA502E7B3E8}|FanCode_BE.csproj|solutionrelative:models\\userrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5209614E-6E17-4EE2-81F9-CEA502E7B3E8}|FanCode_BE.csproj|c:\\harkirat\\project\\fancode_be\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5209614E-6E17-4EE2-81F9-CEA502E7B3E8}|FanCode_BE.csproj|solutionrelative:controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5209614E-6E17-4EE2-81F9-CEA502E7B3E8}|FanCode_BE.csproj|c:\\harkirat\\project\\fancode_be\\interfaces\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5209614E-6E17-4EE2-81F9-CEA502E7B3E8}|FanCode_BE.csproj|solutionrelative:interfaces\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5209614E-6E17-4EE2-81F9-CEA502E7B3E8}|FanCode_BE.csproj|c:\\harkirat\\project\\fancode_be\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5209614E-6E17-4EE2-81F9-CEA502E7B3E8}|FanCode_BE.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5209614E-6E17-4EE2-81F9-CEA502E7B3E8}|FanCode_BE.csproj|c:\\harkirat\\project\\fancode_be\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5209614E-6E17-4EE2-81F9-CEA502E7B3E8}|FanCode_BE.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "todoService.cs",
+              "DocumentMoniker": "C:\\Harkirat\\Project\\FanCode_BE\\Services\\todoService.cs",
+              "RelativeDocumentMoniker": "Services\\todoService.cs",
+              "ToolTip": "C:\\Harkirat\\Project\\FanCode_BE\\Services\\todoService.cs",
+              "RelativeToolTip": "Services\\todoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAB2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T15:44:09.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TodoRequestModel.cs",
+              "DocumentMoniker": "C:\\Harkirat\\Project\\FanCode_BE\\Models\\TodoRequestModel.cs",
+              "RelativeDocumentMoniker": "Models\\TodoRequestModel.cs",
+              "ToolTip": "C:\\Harkirat\\Project\\FanCode_BE\\Models\\TodoRequestModel.cs",
+              "RelativeToolTip": "Models\\TodoRequestModel.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAcwAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T15:39:36.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRequestModel.cs",
+              "DocumentMoniker": "C:\\Harkirat\\Project\\FanCode_BE\\Models\\UserRequestModel.cs",
+              "RelativeDocumentMoniker": "Models\\UserRequestModel.cs",
+              "ToolTip": "C:\\Harkirat\\Project\\FanCode_BE\\Models\\UserRequestModel.cs",
+              "RelativeToolTip": "Models\\UserRequestModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T15:38:34.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ItodoService.cs",
+              "DocumentMoniker": "C:\\Harkirat\\Project\\FanCode_BE\\interfaces\\ItodoService.cs",
+              "RelativeDocumentMoniker": "interfaces\\ItodoService.cs",
+              "ToolTip": "C:\\Harkirat\\Project\\FanCode_BE\\interfaces\\ItodoService.cs",
+              "RelativeToolTip": "interfaces\\ItodoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T15:34:48.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "C:\\Harkirat\\Project\\FanCode_BE\\Controllers\\TodoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TodoController.cs",
+              "ToolTip": "C:\\Harkirat\\Project\\FanCode_BE\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "Controllers\\TodoController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAIAywB8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T15:13:19.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Harkirat\\Project\\FanCode_BE\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Harkirat\\Project\\FanCode_BE\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAABUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T15:09:15.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Harkirat\\Project\\FanCode_BE\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Harkirat\\Project\\FanCode_BE\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-18T15:09:00.251Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
