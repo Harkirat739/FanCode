@@ -1,0 +1,17 @@
+<app-header></app-header>
+<div class="container-fluid">
+    <div class="card">
+        <div class="card-header bg-light">
+            <h5>Fancode User's Todo Details</h5>
+        </div>
+        <div class="ag-grid-section">
+
+            <div class="ag-grid-div">
+                <ag-grid-angular #agGrid class="ag-theme-quartz" [rowData]="rowData" [columnDefs]="columnDefs"
+                    [pagination]="true" [paginationPageSize]="20">
+                </ag-grid-angular>
+            </div>
+        </div>
+
+    </div>
+</div>

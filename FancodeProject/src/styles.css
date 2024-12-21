@@ -1,1 +1,63 @@
-/* You can add global styles to this file, and also import other style files */
+@import 'ag-grid-community/styles/ag-grid.css';
+@import 'ag-grid-community/styles/ag-theme-quartz.css';
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+
+  
+  body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  .container-fluid {
+    /* background-color: #104f83d3; */
+    /* background-image: linear-gradient(35deg, #058af763, #104f83b2); */
+    /* background-color:  rgb(249 242 232); */
+  
+    margin: 1px;
+    padding: 15px;
+    padding-top: 10px;
+  }
+  
+  .card-header {
+    /* background-image: linear-gradient(35deg, #058af794, #104f83d3); */
+    background-image: linear-gradient(35deg, #f7a815d8, #f59b51);
+    
+    color: rgb(255, 254, 253);
+    height: 38px;
+    border-radius: 5px;
+  font-weight: bold;
+  font-family:'Gill Sans MT';
+
+  } 
+  
+  
+  .card-form {
+    padding: 8px;
+    background-color: #fffefe;
+    border-radius: 5px;
+  /* align-items: flex-start; */
+  }
+  
+  
+  .card-body {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    justify-content: flex-start;
+    
+  }
+  
+  .ag-theme-quartz {
+    width: 100%;
+    height: 465px;  
+    padding: 20px; 
+    border-color: black;
+    /* background-color: #fb8006; */
+    background-image: linear-gradient(35deg, #f7a8159a, #f59b51);
+  }
+  
+  
